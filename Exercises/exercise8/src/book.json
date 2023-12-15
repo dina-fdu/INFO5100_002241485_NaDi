@@ -1,0 +1,28 @@
+{
+  "BookShelf": [
+    {
+      "title": "Dream of the Red Chamber",
+      "publishedYear": 1760,
+      "numberOfPages": 1500,
+      "authors": ["Xueqin Cao"]
+    },
+    {
+      "title": "Journey to the West",
+      "publishedYear": 1592,
+      "numberOfPages": 1250,
+      "authors": ["Chengen Wu"]
+    },
+    {
+      "title": "Water Margin",
+      "publishedYear": 1589,
+      "numberOfPages": 1589,
+      "authors": ["Naian Shi","Guanzhong Luo"]
+    },
+    {
+      "title": "Romance of the Three Kingdoms",
+      "publishedYear": 1522,
+      "numberOfPages": 1000,
+      "authors": ["Guanzhong Luo"]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+
+<BookShelf>
+    <Book>
+        <title>Dream of the Red Chamber</title>
+        <publishedYear>1760</publishedYear>
+        <numberOfPages>1500</numberOfPages>
+        <authors>
+            <author>Xueqin Cao</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>Journey to the West</title>
+        <publishedYear>1592</publishedYear>
+        <numberOfPages>1250</numberOfPages>
+        <authors>
+            <author>Chengen Wu</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>Water Margin</title>
+        <publishedYear>1589</publishedYear>
+        <numberOfPages>1589</numberOfPages>
+        <authors>
+            <author>Naian Shi</author>
+            <author>Guanzhong Luo</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>Romance of the Three Kingdoms</title>
+        <publishedYear>1522</publishedYear>
+        <numberOfPages>1000</numberOfPages>
+        <authors>
+            <author>Guanzhong Luo</author>
+        </authors>
+    </Book>
+</BookShelf>
